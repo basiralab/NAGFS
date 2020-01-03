@@ -19,7 +19,7 @@ More details can be found at: https://www.sciencedirect.com/science/article/pii/
 
 The code has been tested with MATLAB 2018a on Windows 10. GPU is not needed to run the code.
 
-In this repository, we release the NAGFS source code trained and tested in a simulated heterogeneous graph data from 2 Gaussian distributions as shown below:
+In this repository, we release the NAGFS source code trained and tested on a simulated heterogeneous graph data from 2 Gaussian distributions as shown below:
 
 ![NAGFS pipeline](http://basira-lab.com/nagfs_3/) 
 
