@@ -33,8 +33,8 @@ To train and evaluate NAGFS code on other datasets, you need to provide:
 • A vector of size (n-1) stacking the training labels.<br/>
 • A number of selected features Nf.<br/>
 • A boolean variables ‘displayResults’ ∈ [0, 1].<br/>
-If displayResults = 1 ==> display (Atlas of group 1, Atlas of group 2, top features matrix and the circular graph).<br/>
-If displayResults = 0 ==> no display.<br/>
+If displayResults = 1 ==> display (Atlas of group 1, Atlas of group 2, top features matrix and the circular graph **at each cross-validation run**). This is cool but it might slow down the demo a bit.<br/>
+If displayResults = 0 ==> no display except for the average results across all cross-validation runs.<br/>
 
 The NAG-FS outputs are:
 
@@ -79,8 +79,9 @@ Paul Kassebaum (2019). circularGraph (https://www.github.com/paul-kassebaum-math
   title={Joint Functional Brain Network Atlas Estimation and Feature Selection for Neurological Disorder Diagnosis With Application to Autism},<br/>
   author={Mhiri, Islem and Rekik, Islem},<br/>
   journal={Medical Image Analysis},<br/>
+  volume={60},<br/>
   pages={101596},<br/>
-  year={2019},<br/>
+  year={2020},<br/>
   publisher={Elsevier}<br/>
 }<br/>
 
