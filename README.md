@@ -12,6 +12,7 @@ This work has been published in the Journal of Medical Image Analysis 2020. **Ne
 More details can be found at: https://www.sciencedirect.com/science/article/pii/S1361841519301367 or https://www.researchgate.net/publication/337092350_Joint_Functional_Brain_Network_Atlas_Estimation_and_Feature_Selection_for_Neurological_Disorder_Diagnosis_With_Application_to_Autism
 
 ![NAGFS pipeline](http://basira-lab.com/nagfs_1/)
+
 ![NAGFS pipeline](http://basira-lab.com/nagfs_2/)
 
 In this repository, we release the NAGFS source code trained and tested in a simulated heterogeneous graph data from 2 Gaussian distributions as shown below:
