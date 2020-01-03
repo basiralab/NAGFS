@@ -15,6 +15,15 @@ More details can be found at: https://www.sciencedirect.com/science/article/pii/
 
 ![NAGFS pipeline](http://basira-lab.com/nagfs_2/)
 
+# Folders to unzip before running the demo
+
+Make sure you unzip the following files before running the demo:
+
+1. circularGraph.zip <br/>
+2. libsvm-3.23.zip <br/>
+3. snnf.zip <br/>
+4. src.zip <br/>
+
 # Demo
 
 The code has been tested with MATLAB 2018a on Windows 10. GPU is not needed to run the code.
