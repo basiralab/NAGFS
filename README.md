@@ -15,5 +15,5 @@ More details can be found at: https://www.sciencedirect.com/science/article/pii/
 ![NAGFS pipeline](http://basira-lab.com/nagfs_2/)
 
 In this repository, we release the NAGFS source code trained and tested in a simulated heterogeneous graph data from 2 Gaussian distributions as shown below:
-![NAGFS pipeline](http://basira-lab.com/nagfs_4/)
+![NAGFS pipeline](http://basira-lab.com/nagfs_4/) 
 
