@@ -1,4 +1,4 @@
-# NAGFS basic concept
+# NAGFS (Network Atlas-Guided Feature Selection)
 NAG-FS(Network Atlas-Guided Feature Selection) for a fast and accurate graph data classification code, created by Islem Mhiri. Please contact islemmhiri1993@gmail.com for inquiries. Thanks. 
 
 While typical feature selection (FS) methods aim to identify the most discriminative features in the original feature space for the target classification task, feature extraction (FE) methods cannot track the original features as they extract new discriminative features via projection. Hence, FS methods are more convenient for clinical applications for biomarker discovery. However, existing FS methods are generally challenged by space, time, scalability, and reproducibility. To address these issues, we design a simple but effective feature selection method, which identifies the most discriminative features by comparing healthy and disordered *brain network atlases to learn*.
