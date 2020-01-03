@@ -46,7 +46,7 @@ The NAG-FS outputs are:
 
 To evaluate our framework, we used leave-one-out cross validation strategy.
 
-Train and test NAGFS method by executing: run_demo.m
+To try our code, you can use: run_demo.m
 
 
 # Example Results
