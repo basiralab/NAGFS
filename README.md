@@ -97,6 +97,9 @@ Paul Kassebaum (2019). circularGraph (https://www.github.com/paul-kassebaum-math
 Paper link on ResearchGate:
 https://www.researchgate.net/publication/337092350_Joint_Functional_Brain_Network_Atlas_Estimation_and_Feature_Selection_for_Neurological_Disorder_Diagnosis_With_Application_to_Autism
 
+# License
+Our code is released under MIT License (see LICENSE file for details).
+
 # Contributing
 We always welcome contributions to help improve NAG-FS and evaluate our framework on other types of graph data. If you would like to contribute, please contact islemmhiri1993@gmail.com. Many thanks.
 
